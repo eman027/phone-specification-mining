@@ -1,0 +1,16 @@
+{
+  "DEMO": {
+    "GOOGLE" : "https://www.google.com/en",
+    "GSM" : "https://www.gsmarena.com/",
+    "SAMSUNG" : "https://www.gsmarena.com/samsung-phones-9.php",
+    "APPLE" : "https://www.gsmarena.com/apple-phones-48.php",
+    "XIAOMI" : "https://www.gsmarena.com/xiaomi-phones-80.php",
+    "HUAWEI" : "https://www.gsmarena.com/huawei-phones-58.php",
+    "TECNO" : "https://www.gsmarena.com/tecno-phones-120.php",
+    "INFINIX" : "https://www.gsmarena.com/infinix-phones-119.php",
+    "VIVO" : "https://www.gsmarena.com/vivo-phones-98.php",
+    "REALME" : "https://www.gsmarena.com/realme-phones-118.php",
+    "ASUS" : "https://www.gsmarena.com/asus-phones-46.php",
+    "HONOR" : "https://www.gsmarena.com/honor-phones-121.php"
+  }
+}
